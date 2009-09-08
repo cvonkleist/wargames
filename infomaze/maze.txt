@@ -26,3 +26,8 @@
      Moving through a maze
 Left-right one and up-down none
     Spells words bit by bit
+
+
+          HIGH SCORES
+	  -----------
+	  mjw  00h41m
