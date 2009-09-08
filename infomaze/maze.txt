@@ -29,5 +29,5 @@ Left-right one and up-down none
 
 
           HIGH SCORES
-	  -----------
-	  mjw  00h41m
+          -----------
+          mjw  00h41m
